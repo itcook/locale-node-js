@@ -1,0 +1,23 @@
+{
+  "author": "Wayne Lai",
+  "license": "MIT",
+  "name": "locale-node-js",
+  "version": "1.0.0",
+  "description": "i18n for Node.js",
+  "keywords": "locale i18n translate gettext",
+  "main": "index.js",
+  "homepage": "https://github.com/itcook/locale-node-js",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/itcook/locale-js.git"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+  },
+  "devDependencies": { "should": "*" },
+  "engines": {
+    "node": "*"
+  }
+}
